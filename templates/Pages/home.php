@@ -76,6 +76,7 @@ $cakeDescription = 'CakePHP: the rapid development PHP framework';
             </a>
             <h1>
                 Welcome to CakePHP <?= Configure::version() ?> Strawberry (🍓)
+				This is our first group project 
             </h1>
         </div>
     </header>
